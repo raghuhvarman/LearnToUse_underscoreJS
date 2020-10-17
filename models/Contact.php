@@ -10,6 +10,7 @@ class Contact {
     public $profilePic;
     public $tag;
     public $Id;
+    public $address;
 
     function __construct($fn, $ln, $cn, $email, $pp, $tag, $id) {
 
