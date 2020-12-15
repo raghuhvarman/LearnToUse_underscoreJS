@@ -1,1 +1,2 @@
 Hope this commit will be useful in understanding the usage of uderscore JS. Ommit the UI design.
+There are few bugs to be fixed
